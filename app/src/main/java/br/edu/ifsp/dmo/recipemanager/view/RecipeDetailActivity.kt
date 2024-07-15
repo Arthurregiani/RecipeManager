@@ -31,6 +31,10 @@ class RecipeDetailActivity : AppCompatActivity() {
         binding.buttonSaveRecipe.setOnClickListener {
             saveRecipe()
         }
+        // Configurar clique no botão de salvar
+        binding.buttonClose.setOnClickListener {
+            finish()
+        }
     }
 
     private fun saveRecipe() {

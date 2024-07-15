@@ -1,8 +1,12 @@
 <resources>
     <string name="app_name">RecipeManager</string>
-    <string name="recipe_name">Recipe Name</string>
+    <string name="recipe_name">Name</string>
     <string name="ingredients">Ingredients</string>
     <string name="directions">Directions</string>
     <string name="save_recipe">Save</string>
     <string name="add_recipe">Add Recipe</string>
+    <string name="close">Close</string>
+    <string name="edt_recipe_name">Recipe title</string>
+    <string name="edt_ingredients">Ingredients list</string>
+    <string name="edt_directions">Describe how to prepare the recipe</string>
 </resources>
